@@ -1,6 +1,6 @@
 # 📡 Casio fx-991CW — Guía Completa de Subnetting
 
-> Guía práctica para calcular subnetting IPv4 con la calculadora Casio fx-991CW.  
+> He creado esta Guía práctica para calcular subnetting IPv4 con la calculadora Casio fx-991CW.  
 > Incluye fundamentos, conversiones binarias, fórmulas clave y **10 ejercicios resueltos**.
 
 ---
